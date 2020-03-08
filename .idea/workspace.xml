@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9821e98c-ad21-444e-ad41-fa552535f167" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NewTest/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Pei021" />
+        <option value="Pei" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -87,8 +86,17 @@
       <workItem from="1581931679688" duration="610000" />
       <workItem from="1582005902345" duration="581000" />
       <workItem from="1583574282996" duration="1503000" />
-      <workItem from="1583578438195" duration="299000" />
+      <workItem from="1583578438195" duration="689000" />
+      <workItem from="1583631574675" duration="370000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1583578836025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583578836025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,13 +104,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="test_02" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1583578797375">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1583631932878">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583578797375" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583631932878" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1583578497025">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -127,6 +136,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583576546646" />
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2" timestamp="1583578929230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583578929230" />
     <state x="336" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1582005909641">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
